@@ -1,5 +1,7 @@
 # Examples for labels computed using CLIP embeddings
 
+Paper: https://arxiv.org/pdf/2103.00020
+
 Image|a t-shirt|a photo of a city|a photo of the statue of liberty|photo of a receipt|photo of a receipt of a burger restaurant|museum ticket|museum poster|something else
 ---|---|---|---|---|---|---|---|---
 ![img](./data/PXL_20240503_180307407.jpg)|0.999|0.000|0.000|0.000|0.000|0.000|0.000|0.000

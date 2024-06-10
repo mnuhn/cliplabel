@@ -15,6 +15,7 @@ categories = [
 
 with open("README.md", "w") as file:
   file.write("# Examples for labels computed using CLIP embeddings\n\n")
+  file.write("Paper: https://arxiv.org/pdf/2103.00020\n\n")
   file.write(f"Image|{'|'.join(categories)}\n")
   file.write(f"---|{'|'.join(['---' for c in categories])}\n")
 
